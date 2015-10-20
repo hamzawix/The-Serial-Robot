@@ -1,0 +1,5 @@
+You have to download and install the DHT library in your arduino IDE before you compile the code
+download link: https://github.com/adafruit/DHT-sensor-library
+
+***The Serial Robot***
+***Hamza Boughraira***

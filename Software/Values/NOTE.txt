@@ -1,0 +1,6 @@
+In this folder a CSV file will be created just after establishing a connection between the app and the robot
+the CSV file is used to store data values from the robot
+
+
+***The Srial Robot***
+***Hamza Boughraira***

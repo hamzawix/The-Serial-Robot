@@ -1,0 +1,1 @@
+The serial robot is a free and open source project written in Python, allows you to take full control of your Arduino-based robot in addition to displaying live video from its camera, save the video, edit it and take snapshots, it allows you also to plot weather data in both real time and static plots
